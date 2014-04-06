@@ -5,9 +5,9 @@
 // 2. Prevent iOS text size adjust after orientation change, without disabling
 //  user zoom.
 html {
-    font-family: sans-serif; /* 1 */
-    -ms-text-size-adjust: 100%; /* 2 */
-    -webkit-text-size-adjust: 100%; /* 2 */
+    font-family: sans-serif; // 1
+    -ms-text-size-adjust: 100%; // 2
+    -webkit-text-size-adjust: 100%; // 2
 }
 
 // Remove default margin.
@@ -124,7 +124,7 @@ dfn {
 // contexts in Firefox 4+, Safari, and Chrome.
 h1 {
     font-size: 2em;
-    margin: 0.67em 0;
+    margin: .67em 0;
 }
 
 // Address styling not present in IE 8/9.
@@ -148,11 +148,11 @@ sup {
 }
 
 sup {
-    top: -0.5em;
+    top: -.5em;
 }
 
 sub {
-    bottom: -0.25em;
+    bottom: -.25em;
 }
 
 
@@ -299,8 +299,8 @@ input {
 // 2. Remove excess padding in IE 8/9/10.
 input[type="checkbox"],
 input[type="radio"] {
-    box-sizing: border-box; /* 1 */
-    padding: 0; /* 2 */
+    box-sizing: border-box; // 1
+    padding: 0; // 2
 }
 
 // Fix the cursor style for Chrome's increment/decrement buttons. For certain
@@ -333,7 +333,7 @@ input[type="search"]::-webkit-search-decoration {
 fieldset {
     border: 1px solid #c0c0c0;
     margin: 0 2px;
-    padding: 0.35em 0.625em 0.75em;
+    padding: .35em .625em .75em;
 }
 
 // 1. Correct `color` not being inherited in IE 8/9/10/11.
