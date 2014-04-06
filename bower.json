@@ -1,15 +1,15 @@
 {
   "name": "tree-normalize.css",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "homepage": "https://github.com/treeframework/generic.normalize",
   "authors": [
     "Ilia Kolev <contact@iliakolev.com>",
     "Nicolas Gallagher <nicolasgallagher@gmail.com>"
   ],
-  "description": "Nicolas Gallagher’s Normalize.css used in the treeframework",
+  "description": "Nicolas Gallagher’s Normalize.css used in the TreeFramework",
   "main": "_normalize.scss",
   "keywords": [
-    "treeframework",
+    "TreeFramework",
     "normalize"
   ],
   "license": "MIT"
