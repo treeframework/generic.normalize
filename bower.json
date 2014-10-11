@@ -1,6 +1,6 @@
 {
   "name": "tree-normalize.css",
-  "version": "3.0.2",
+  "version": "3.0.3",
   "homepage": "https://github.com/treeframework/generic.normalize",
   "authors": [
     "Harry Roberts <harry@csswizardry.com>",
@@ -8,7 +8,10 @@
     "Nicolas Gallagher <nicolasgallagher@gmail.com>"
   ],
   "description": "Nicolas Gallagher’s Normalize.css",
-  "main": "_normalize.scss",
+  "main": "_generic.normalize.scss",
+  "ignore": [
+    "*.md"
+  ],
   "keywords": [
     "normalize"
   ],
