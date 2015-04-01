@@ -6,7 +6,7 @@ line with modern standards</q>.
 
 ## Installation
 
-You can install `ratio` object via Bower, npm, Git Submodule, or copy and paste.
+You can install `normalize` module via Bower, npm, Git Submodule, or copy and paste.
 
 ### Install using Bower:
 
