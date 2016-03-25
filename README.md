@@ -47,8 +47,7 @@ Generic layer.
 
 ## Credits
 
-[Normalize.css](https://github.com/necolas/normalize.css/) is a project by
-[Nicolas Gallagher](http://nicolasgallagher.com/), co-created with [Jonathan Neal](http://jonathantneal.com/).
+[Normalize.css](https://github.com/necolas/normalize.css/) is a project by [Nicolas Gallagher](http://nicolasgallagher.com/), co-created with [Jonathan Neal](http://jonathantneal.com/).
 
-* **[inuitcss](https://github.com/inuitcss)** Powerful, Sass-based, OOCSS
-framework designed with scalability and performance in mind.
+[inuitcss](https://github.com/inuitcss)** Powerful, Sass-based, OOCSS framework
+designed with scalability and performance in mind.
