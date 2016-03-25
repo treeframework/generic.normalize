@@ -1,12 +1,11 @@
 {
   "name": "tree-normalize.css",
-  "version": "3.0.4",
+  "version": "4.0.0",
   "homepage": "https://github.com/treeframework/generic.normalize",
   "authors": [
-    "Ilia Kolev <info@iliakolev.com>",
-    "Nicolas Gallagher <nicolasgallagher@gmail.com>"
+    "Ilia Kolev <info@iliakolev.com>"
   ],
-  "description": "Nicolas Gallagher’s Normalize.css",
+  "description": "A modern alternative to CSS resets",
   "main": "_generic.normalize.scss",
   "ignore": [
     "CHANGELOG.md",
