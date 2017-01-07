@@ -1,5 +1,18 @@
 # normalize Changelog
 
+## [5.0.0] - October 3, 2016
+
+* Add normalized sections not already present from
+  https://html.spec.whatwg.org/multipage/.
+* Move unsorted rules into their respective sections.
+* Update the `summary` style in all browsers.
+* Remove `::placeholder` styles due to a bug in Edge.
+* More explicitly define font resets on form controls.
+* Remove the `optgroup` normalization needed by the previous font reset.
+* Update text-size-adjust documentation  for IE on Windows Phone
+* Update OS X reference to macOS
+* Update the semver strategy.
+
 ## [4.0.0] - 2016-03-25
 
 * Add the correct font weight for `b` and `strong` in Chrome, Edge, and Safari.
