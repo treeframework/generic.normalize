@@ -1,7 +1,7 @@
 # Normalize
 
 The `normalize` module is an exact clone of [Normalize.css](https://github.com/necolas/normalize.css/)
-at version v4.0.0. Normalize.css <q>makes browsers render all elements more
+at version v5.0.0. Normalize.css <q>makes browsers render all elements more
 consistently and in line with modern standards. It precisely targets only the
 styles that need normalizing</q>.
 
